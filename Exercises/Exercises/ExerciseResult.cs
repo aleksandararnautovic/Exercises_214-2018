@@ -19,4 +19,9 @@ namespace Exercises
             StudentIndex = index;
             Point = point;
         }
+
+        public ExerciseResult()
+        {
+        }
+    }
 }
